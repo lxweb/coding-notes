@@ -1,0 +1,17 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "https://en.wikipedia.org/wiki/Anagram",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anagram"
+  ],
+  "author": "lxweb",
+  "license": "ISC",
+  "dependencies": {
+    "fakerator": "^0.3.0"
+  }
+}
