@@ -4,7 +4,7 @@
   "description": "https://en.wikipedia.org/wiki/Anagram",
   "main": "test1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "keywords": [
     "anagram"
@@ -12,6 +12,7 @@
   "author": "lxweb",
   "license": "ISC",
   "dependencies": {
-    "fakerator": "^0.3.0"
+    "fakerator": "^0.3.0",
+    "jasmine": "^2.8.0"
   }
 }
